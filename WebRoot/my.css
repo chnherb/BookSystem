@@ -1,0 +1,22 @@
+
+
+//总星级
+#subnav a:hover{color:white}.cc{text-align:center}.ll{float:left}.rr{float:right}.trr{text-align:right}//文字靠左
+
+#header.a_folder:hover .bn-arrow{background-position:0 -63px}.bigstar50,.bigstar45,.bigstar40,.bigstar35,.bigstar30,.bigstar25,.bigstar20,.bigstar15,.bigstar10,.bigstar05,.bigstar00{display:inline-block;*display:inline;zoom:1;background:url(images/ic_rating_m.png) no-repeat;width:75px;height:15px;margin:1px 0 0 0;overflow:hidden}.bigstar50+span.rating_num,.bigstar45+span.rating_num,.bigstar40+span.rating_num,.bigstar35+span.rating_num,.bigstar30+span.rating_num,.bigstar25+span.rating_num,.bigstar20+span.rating_num,.bigstar15+span.rating_num,.bigstar10+span.rating_num,.bigstar05+span.rating_num,.bigstar00+span.rating_num{font-size:16px;line-height:1}.bigstar50{background-position:0 0px}.bigstar45{background-position:0 -15px}.bigstar40{background-position:0 -30px}.bigstar35{background-position:0 -45px}.bigstar30{background-position:0 -60px}.bigstar25{background-position:0 -75px}.bigstar20{background-position:0 -90px}.bigstar15{background-position:0 -105px}.bigstar10{background-position:0 -120px}.bigstar05{background-position:0 -135px}.bigstar00{background-position:0 -150px}
+
+
+//百分比条
+#stars{font-size:0;vertical-align:text-bottom;cursor:pointer}
+#stars a img{vertical-align:text-bottom}.starstop,.stars{margin-right:5px}.starstop{float:left}.rating_nums,.rating_num{color:#e09015;font-size:12px;padding:0 3px}.status-item .rating_num{font-size:14px}.rating_nums{padding-left:0}.star .rating_num{color:#e09015;padding:0 5px 0 0}
+#interest_sect{overflow:hidden;word-wrap:break-word}
+#interest_sectl{float:left;width:155px;margin:2px 0 0 0;padding:0 0 0 15px;border-left:1px solid #eaeaea;color:#9b9b9b}
+#interest_sectl .rating_wrap{padding-bottom:15px;font-size:12px;line-height:14px}
+#interest_sectl .rating_wrap .rating_logo{line-height:1}
+#interest_sectl .rating_self{padding:0;line-height:2}
+#interest_sectl .rating_self:before,#interest_sectl .rating_self:after{content:'';display:block;clear:both}
+#interest_sectl .rating_self .rating_sum{clear:both}
+#interest_sectl .rating_num{color:#494949;padding:0;min-width:30%;font-size:28px}
+#interest_sectl .rating_right{float:left;padding:10px 0 10px 6px}
+#interest_sectl .rating_right.not_showed{padding:10px 0}
+#interest_sectl .power{height:10px;float:left;margin:1px 4px;background:#ffd596 none repeat scroll 0 0}

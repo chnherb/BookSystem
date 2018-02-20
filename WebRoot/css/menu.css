@@ -1,0 +1,16 @@
+#menu{
+	height:150px; width:700px;align:center;padding-top:30px;float:left;
+}
+
+#menu img{
+	padding-left:50px;OVERFLOW: hidden;
+}
+#menuContent{
+	height:500px; width:600px;align:center;text-align:center;padding-left:30px;
+	float: left;border: 10px solid #DCDCDC;background: #FFF url(images/line.jpg) repeat-y left top;
+}
+
+#tip{
+	text-align:center;height:655px; width:400px;margin-top:30px;
+	padding-left:30px;border: 10px solid #DCDCDC;background: #FFF url(images/line.jpg) repeat-y left top;
+}
